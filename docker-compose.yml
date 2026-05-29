@@ -1,0 +1,136 @@
+version: "3.9"
+
+# ============================================================
+#  单节点中间件部署 —— Redis + MySQL + MongoDB
+#  运行用户：opsuser（UID=1001）
+#  数据目录：/web/data/{redis,mysql,mongo}
+#  软件目录：/web/soft/{redis,mysql,mongo}（配置文件挂载）
+#  日志目录：/web/data/{redis,mysql,mongo}/logs
+#
+#  使用前：
+#    1. 修改 .env 中的密码
+#    2. 执行 ./pre_check.sh 完成宿主机目录与权限预检
+#    3. docker compose up -d
+# ============================================================
+
+networks:
+  middleware_net:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/24
+
+# ─────────────────────────────────────────────────────────────
+#  Redis 7
+# ─────────────────────────────────────────────────────────────
+services:
+  redis:
+    image: redis:${REDIS_VERSION:-7.2.4}
+    container_name: middleware_redis
+    restart: always
+    user: "1001:1001"
+    ports:
+      - "${REDIS_PORT:-6379}:6379"
+    volumes:
+      - /web/soft/redis/redis.conf:/etc/redis/redis.conf:ro
+      - /web/data/redis/data:/data
+      - /web/data/redis/logs:/var/log/redis
+    command: >
+      redis-server /etc/redis/redis.conf
+      --requirepass "${REDIS_PASSWORD}"
+      --appendonly yes
+      --appendfilename "appendonly.aof"
+      --loglevel notice
+      --logfile /var/log/redis/redis.log
+      --save "3600 1 300 100 60 10000"
+      --maxmemory-policy allkeys-lru
+    networks:
+      middleware_net:
+        ipv4_address: 172.20.0.10
+    healthcheck:
+      test: ["CMD", "redis-cli", "-a", "${REDIS_PASSWORD}", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "100m"
+        max-file: "5"
+
+# ─────────────────────────────────────────────────────────────
+#  MySQL 8
+# ─────────────────────────────────────────────────────────────
+  mysql:
+    image: mysql:${MYSQL_VERSION:-8.0.36}
+    container_name: middleware_mysql
+    restart: always
+    user: "1001:1001"
+    ports:
+      - "${MYSQL_PORT:-3306}:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+      MYSQL_DATABASE: ${MYSQL_DATABASE:-app_db}
+      MYSQL_USER: ${MYSQL_USER:-appuser}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+      TZ: Asia/Shanghai
+    volumes:
+      - /web/soft/mysql/my.cnf:/etc/mysql/conf.d/custom.cnf:ro
+      - /web/data/mysql/data:/var/lib/mysql
+      - /web/data/mysql/logs:/var/log/mysql
+      - /web/data/mysql/binlog:/var/log/mysql/binlog
+      - ./init/mysql:/docker-entrypoint-initdb.d:ro
+    networks:
+      middleware_net:
+        ipv4_address: 172.20.0.20
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost",
+             "-u", "root", "-p${MYSQL_ROOT_PASSWORD}"]
+      interval: 15s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "100m"
+        max-file: "5"
+
+# ─────────────────────────────────────────────────────────────
+#  MongoDB 7
+# ─────────────────────────────────────────────────────────────
+  mongo:
+    image: mongo:${MONGO_VERSION:-7.0.8}
+    container_name: middleware_mongo
+    restart: always
+    user: "1001:1001"
+    ports:
+      - "${MONGO_PORT:-27017}:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_ROOT_USER:-root}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_ROOT_PASSWORD}
+      MONGO_INITDB_DATABASE: ${MONGO_DATABASE:-app_db}
+      TZ: Asia/Shanghai
+    volumes:
+      - /web/soft/mongo/mongod.conf:/etc/mongod.conf:ro
+      - /web/data/mongo/data:/data/db
+      - /web/data/mongo/logs:/var/log/mongodb
+      - ./init/mongo:/docker-entrypoint-initdb.d:ro
+    command: mongod --config /etc/mongod.conf
+    networks:
+      middleware_net:
+        ipv4_address: 172.20.0.30
+    healthcheck:
+      test: >
+        mongosh --quiet --username ${MONGO_ROOT_USER:-root}
+        --password ${MONGO_ROOT_PASSWORD}
+        --eval "db.adminCommand('ping').ok" | grep -q 1
+      interval: 15s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "100m"
+        max-file: "5"
