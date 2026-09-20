@@ -1,0 +1,1000 @@
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Client.SupportIpv6:客户端是否支持IPV6
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.dialFirstSwitch:网络双栈拨号优先开关
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.authFirstSwitch:IPV4/IPV6业务认证优先开关
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.InternetProtocol:是否开启IPV6
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.UserID:业务账号
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.MACAddress:MAC地址
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Manufacturer:厂商
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Platform:认证平台
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.AuthURL:认证地址
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.PPPoEID:PPPoE拨号账号
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.IPoEID:IPoE拨号账号
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.SleepTriggerTime:休眠触发时间
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.IpoeFirstSwitch:Ipoe优先开关
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.STBID:STB编号
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.AddressingType:地址获取方式
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.IPAddress:IP地址
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelID:型号编号
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelName:型号
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.HardwareVersion:硬件版本
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.SoftwareVersion:软件版本
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Style:终端样式
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.ManagementServer.URL:网管地址
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.OpenState:启动行为
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Probe.StuckSecond:探针卡顿检测时长
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Time.NTPServer1:NTP服务器
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.DNSServers:DNS服务器
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:300]  *******Got 26 configurations.
+[INFO] 2026-09-20 17:30:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:362]  ##Flush upload info finish
+[INFO] 2026-09-20 17:30:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [0] clients.
+[INFO] 2026-09-20 17:30:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 17:30:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 17:30:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 17:30:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 17:30:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:127]  write onlineRecords to db begin
+[INFO] 2026-09-20 17:30:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:136]  Success to write 0 onlineRecords to db
+[INFO] 2026-09-20 17:30:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:37]  OnlineDeviceTask.flushDeviceIntoIgnite begin
+[INFO] 2026-09-20 17:30:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:41]  OnlineDeviceTask.flushDeviceIntoIgnite empty
+[INFO] 2026-09-20 17:30:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:30:45 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:31:26 [pool-8-thread-1] [cronLogger.reloadPolicies:270]  ##开始载入参数设置策略
+[INFO] 2026-09-20 17:31:26 [pool-8-thread-1] [cronLogger.reloadPolicies:279]  ##成功载入[0]参数设置策略
+[INFO] 2026-09-20 17:31:26 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+[INFO] 2026-09-20 17:31:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:67]  Success to load 0 system policies from database
+[INFO] 2026-09-20 17:31:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:84]  Success to update 0 system policies
+[INFO] 2026-09-20 17:31:26 [pool-14-thread-1] [cronLogger.refreshSystemUpgradeRecordsToDb:116]  Success to write 0 systemUpgradRecords to db
+[DEBUG] 2026-09-20 17:31:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyMatchCache:94]  插入升级策略匹配记录
+[INFO] 2026-09-20 17:31:26 [pool-17-thread-1] [com.amt.acs.task.IptvAccountTask.loadIptvAccount:34]  loadIptvAccount userIds is empty
+[INFO] 2026-09-20 17:31:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:31:49 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:32:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [0] clients.
+[INFO] 2026-09-20 17:32:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 17:32:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 17:32:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 17:32:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 17:32:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:32:52 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:320]  ##Start to flush upload info of [0] terminals。
+[DEBUG] 2026-09-20 17:33:26 [pool-10-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:292]  *******Configurations List
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Client.SupportIpv6:客户端是否支持IPV6
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.dialFirstSwitch:网络双栈拨号优先开关
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.authFirstSwitch:IPV4/IPV6业务认证优先开关
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.InternetProtocol:是否开启IPV6
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.UserID:业务账号
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.MACAddress:MAC地址
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Manufacturer:厂商
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Platform:认证平台
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.AuthURL:认证地址
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.PPPoEID:PPPoE拨号账号
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.IPoEID:IPoE拨号账号
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.SleepTriggerTime:休眠触发时间
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.IpoeFirstSwitch:Ipoe优先开关
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.STBID:STB编号
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.AddressingType:地址获取方式
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.IPAddress:IP地址
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelID:型号编号
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelName:型号
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.HardwareVersion:硬件版本
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.SoftwareVersion:软件版本
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Style:终端样式
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.ManagementServer.URL:网管地址
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.OpenState:启动行为
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Probe.StuckSecond:探针卡顿检测时长
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Time.NTPServer1:NTP服务器
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.DNSServers:DNS服务器
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:300]  *******Got 26 configurations.
+[INFO] 2026-09-20 17:33:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:362]  ##Flush upload info finish
+[INFO] 2026-09-20 17:33:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:127]  write onlineRecords to db begin
+[INFO] 2026-09-20 17:33:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:136]  Success to write 0 onlineRecords to db
+[INFO] 2026-09-20 17:33:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:37]  OnlineDeviceTask.flushDeviceIntoIgnite begin
+[INFO] 2026-09-20 17:33:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:41]  OnlineDeviceTask.flushDeviceIntoIgnite empty
+[INFO] 2026-09-20 17:33:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:33:55 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:33:56 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+[INFO] 2026-09-20 17:34:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [0] clients.
+[INFO] 2026-09-20 17:34:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 17:34:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 17:34:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 17:34:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 17:34:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:34:58 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:35:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:36:01 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:36:26 [pool-8-thread-1] [cronLogger.checkPolicyRecorods:552]  ####Finish writing [0] paramCheckRecords to database in 0 milseconds.
+[INFO] 2026-09-20 17:36:26 [pool-9-thread-1] [cronLogger.writeCommandsToDataBase:388]  ####Finish writing [0] commands to database in 0 milseconds.
+[INFO] 2026-09-20 17:36:26 [pool-8-thread-1] [cronLogger.checkPolicyRecorods:557]  ##Finish check
+[INFO] 2026-09-20 17:36:26 [pool-8-thread-1] [cronLogger.reloadPolicies:270]  ##开始载入参数设置策略
+[DEBUG] 2026-09-20 17:36:26 [pool-8-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:320]  ##Start to flush upload info of [0] terminals。
+[INFO] 2026-09-20 17:36:26 [pool-8-thread-1] [cronLogger.reloadPolicies:279]  ##成功载入[0]参数设置策略
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:292]  *******Configurations List
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Client.SupportIpv6:客户端是否支持IPV6
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.dialFirstSwitch:网络双栈拨号优先开关
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.authFirstSwitch:IPV4/IPV6业务认证优先开关
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.InternetProtocol:是否开启IPV6
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.UserID:业务账号
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.MACAddress:MAC地址
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Manufacturer:厂商
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Platform:认证平台
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.AuthURL:认证地址
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.PPPoEID:PPPoE拨号账号
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.IPoEID:IPoE拨号账号
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.SleepTriggerTime:休眠触发时间
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.IpoeFirstSwitch:Ipoe优先开关
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.STBID:STB编号
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.AddressingType:地址获取方式
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.IPAddress:IP地址
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelID:型号编号
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelName:型号
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.HardwareVersion:硬件版本
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.SoftwareVersion:软件版本
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Style:终端样式
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.ManagementServer.URL:网管地址
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.OpenState:启动行为
+[INFO] 2026-09-20 17:36:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [0] clients.
+[INFO] 2026-09-20 17:36:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 17:36:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 17:36:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Probe.StuckSecond:探针卡顿检测时长
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Time.NTPServer1:NTP服务器
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.DNSServers:DNS服务器
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:300]  *******Got 26 configurations.
+[INFO] 2026-09-20 17:36:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:362]  ##Flush upload info finish
+[INFO] 2026-09-20 17:36:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 17:36:26 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+[INFO] 2026-09-20 17:36:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:127]  write onlineRecords to db begin
+[INFO] 2026-09-20 17:36:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:136]  Success to write 0 onlineRecords to db
+[INFO] 2026-09-20 17:36:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:67]  Success to load 0 system policies from database
+[INFO] 2026-09-20 17:36:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:37]  OnlineDeviceTask.flushDeviceIntoIgnite begin
+[INFO] 2026-09-20 17:36:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:41]  OnlineDeviceTask.flushDeviceIntoIgnite empty
+[INFO] 2026-09-20 17:36:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:84]  Success to update 0 system policies
+[INFO] 2026-09-20 17:36:26 [pool-14-thread-1] [cronLogger.refreshSystemUpgradeRecordsToDb:116]  Success to write 0 systemUpgradRecords to db
+[DEBUG] 2026-09-20 17:36:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyMatchCache:94]  插入升级策略匹配记录
+[INFO] 2026-09-20 17:36:26 [pool-17-thread-1] [com.amt.acs.task.IptvAccountTask.loadIptvAccount:34]  loadIptvAccount userIds is empty
+[INFO] 2026-09-20 17:36:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:37:04 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:37:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:38:07 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:38:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [0] clients.
+[INFO] 2026-09-20 17:38:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 17:38:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 17:38:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 17:38:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 17:38:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+[DEBUG] 2026-09-20 17:38:56 [pool-14-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[DEBUG] 2026-09-20 17:38:56 [pool-14-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[INFO] 2026-09-20 17:38:56 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+九月 20, 2026 5:39:10 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:320]  ##Start to flush upload info of [0] terminals。
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:292]  *******Configurations List
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Client.SupportIpv6:客户端是否支持IPV6
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.dialFirstSwitch:网络双栈拨号优先开关
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.authFirstSwitch:IPV4/IPV6业务认证优先开关
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.InternetProtocol:是否开启IPV6
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.UserID:业务账号
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.MACAddress:MAC地址
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Manufacturer:厂商
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Platform:认证平台
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.AuthURL:认证地址
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.PPPoEID:PPPoE拨号账号
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.IPoEID:IPoE拨号账号
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.SleepTriggerTime:休眠触发时间
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.IpoeFirstSwitch:Ipoe优先开关
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.STBID:STB编号
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.AddressingType:地址获取方式
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.IPAddress:IP地址
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelID:型号编号
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelName:型号
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.HardwareVersion:硬件版本
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.SoftwareVersion:软件版本
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Style:终端样式
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.ManagementServer.URL:网管地址
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.OpenState:启动行为
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Probe.StuckSecond:探针卡顿检测时长
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Time.NTPServer1:NTP服务器
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.DNSServers:DNS服务器
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:300]  *******Got 26 configurations.
+[INFO] 2026-09-20 17:39:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:362]  ##Flush upload info finish
+[INFO] 2026-09-20 17:39:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:127]  write onlineRecords to db begin
+[INFO] 2026-09-20 17:39:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:136]  Success to write 0 onlineRecords to db
+[INFO] 2026-09-20 17:39:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:37]  OnlineDeviceTask.flushDeviceIntoIgnite begin
+[INFO] 2026-09-20 17:39:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:41]  OnlineDeviceTask.flushDeviceIntoIgnite empty
+[INFO] 2026-09-20 17:39:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:40:13 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:40:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [0] clients.
+[INFO] 2026-09-20 17:40:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 17:40:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 17:40:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 17:40:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 17:40:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:41:16 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:41:26 [pool-8-thread-1] [cronLogger.reloadPolicies:270]  ##开始载入参数设置策略
+[DEBUG] 2026-09-20 17:41:26 [pool-8-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[INFO] 2026-09-20 17:41:26 [pool-8-thread-1] [cronLogger.reloadPolicies:279]  ##成功载入[0]参数设置策略
+[INFO] 2026-09-20 17:41:26 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+[INFO] 2026-09-20 17:41:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:67]  Success to load 0 system policies from database
+[INFO] 2026-09-20 17:41:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:84]  Success to update 0 system policies
+[INFO] 2026-09-20 17:41:26 [pool-14-thread-1] [cronLogger.refreshSystemUpgradeRecordsToDb:116]  Success to write 0 systemUpgradRecords to db
+[DEBUG] 2026-09-20 17:41:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyMatchCache:94]  插入升级策略匹配记录
+[INFO] 2026-09-20 17:41:26 [pool-17-thread-1] [com.amt.acs.task.IptvAccountTask.loadIptvAccount:34]  loadIptvAccount userIds is empty
+[INFO] 2026-09-20 17:41:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:42:19 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:320]  ##Start to flush upload info of [0] terminals。
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:292]  *******Configurations List
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Client.SupportIpv6:客户端是否支持IPV6
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.dialFirstSwitch:网络双栈拨号优先开关
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.authFirstSwitch:IPV4/IPV6业务认证优先开关
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.InternetProtocol:是否开启IPV6
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.UserID:业务账号
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.MACAddress:MAC地址
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Manufacturer:厂商
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Platform:认证平台
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.AuthURL:认证地址
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.PPPoEID:PPPoE拨号账号
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.IPoEID:IPoE拨号账号
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.SleepTriggerTime:休眠触发时间
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.IpoeFirstSwitch:Ipoe优先开关
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.STBID:STB编号
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.AddressingType:地址获取方式
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.IPAddress:IP地址
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelID:型号编号
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelName:型号
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.HardwareVersion:硬件版本
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.SoftwareVersion:软件版本
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Style:终端样式
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.ManagementServer.URL:网管地址
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.OpenState:启动行为
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Probe.StuckSecond:探针卡顿检测时长
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Time.NTPServer1:NTP服务器
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.DNSServers:DNS服务器
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:300]  *******Got 26 configurations.
+[INFO] 2026-09-20 17:42:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:362]  ##Flush upload info finish
+[INFO] 2026-09-20 17:42:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [0] clients.
+[INFO] 2026-09-20 17:42:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 17:42:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 17:42:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 17:42:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 17:42:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:127]  write onlineRecords to db begin
+[INFO] 2026-09-20 17:42:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:136]  Success to write 0 onlineRecords to db
+[INFO] 2026-09-20 17:42:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:37]  OnlineDeviceTask.flushDeviceIntoIgnite begin
+[INFO] 2026-09-20 17:42:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:41]  OnlineDeviceTask.flushDeviceIntoIgnite empty
+[INFO] 2026-09-20 17:42:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:43:22 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:43:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+[DEBUG] 2026-09-20 17:43:56 [pool-14-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[INFO] 2026-09-20 17:43:56 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+九月 20, 2026 5:44:25 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:44:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [0] clients.
+[INFO] 2026-09-20 17:44:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 17:44:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 17:44:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 17:44:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 17:44:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:320]  ##Start to flush upload info of [0] terminals。
+[DEBUG] 2026-09-20 17:45:26 [pool-10-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:292]  *******Configurations List
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Client.SupportIpv6:客户端是否支持IPV6
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.dialFirstSwitch:网络双栈拨号优先开关
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.authFirstSwitch:IPV4/IPV6业务认证优先开关
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.InternetProtocol:是否开启IPV6
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.UserID:业务账号
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.MACAddress:MAC地址
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Manufacturer:厂商
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Platform:认证平台
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.AuthURL:认证地址
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.PPPoEID:PPPoE拨号账号
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.IPoEID:IPoE拨号账号
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.SleepTriggerTime:休眠触发时间
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.IpoeFirstSwitch:Ipoe优先开关
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.STBID:STB编号
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.AddressingType:地址获取方式
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.IPAddress:IP地址
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelID:型号编号
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelName:型号
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.HardwareVersion:硬件版本
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.SoftwareVersion:软件版本
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Style:终端样式
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.ManagementServer.URL:网管地址
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.OpenState:启动行为
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Probe.StuckSecond:探针卡顿检测时长
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Time.NTPServer1:NTP服务器
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.DNSServers:DNS服务器
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:300]  *******Got 26 configurations.
+[INFO] 2026-09-20 17:45:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:362]  ##Flush upload info finish
+[INFO] 2026-09-20 17:45:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:127]  write onlineRecords to db begin
+[INFO] 2026-09-20 17:45:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:136]  Success to write 0 onlineRecords to db
+[INFO] 2026-09-20 17:45:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:37]  OnlineDeviceTask.flushDeviceIntoIgnite begin
+[INFO] 2026-09-20 17:45:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:41]  OnlineDeviceTask.flushDeviceIntoIgnite empty
+[INFO] 2026-09-20 17:45:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:45:28 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:46:26 [pool-8-thread-1] [cronLogger.checkPolicyRecorods:552]  ####Finish writing [0] paramCheckRecords to database in 0 milseconds.
+[INFO] 2026-09-20 17:46:26 [pool-8-thread-1] [cronLogger.checkPolicyRecorods:557]  ##Finish check
+[INFO] 2026-09-20 17:46:26 [pool-8-thread-1] [cronLogger.reloadPolicies:270]  ##开始载入参数设置策略
+[INFO] 2026-09-20 17:46:26 [pool-9-thread-1] [cronLogger.writeCommandsToDataBase:388]  ####Finish writing [0] commands to database in 0 milseconds.
+[INFO] 2026-09-20 17:46:26 [pool-8-thread-1] [cronLogger.reloadPolicies:279]  ##成功载入[0]参数设置策略
+[INFO] 2026-09-20 17:46:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [0] clients.
+[INFO] 2026-09-20 17:46:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 17:46:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 17:46:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 17:46:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 17:46:26 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+[INFO] 2026-09-20 17:46:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:67]  Success to load 0 system policies from database
+[INFO] 2026-09-20 17:46:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:84]  Success to update 0 system policies
+[INFO] 2026-09-20 17:46:26 [pool-14-thread-1] [cronLogger.refreshSystemUpgradeRecordsToDb:116]  Success to write 0 systemUpgradRecords to db
+[DEBUG] 2026-09-20 17:46:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyMatchCache:94]  插入升级策略匹配记录
+[INFO] 2026-09-20 17:46:26 [pool-17-thread-1] [com.amt.acs.task.IptvAccountTask.loadIptvAccount:34]  loadIptvAccount userIds is empty
+[INFO] 2026-09-20 17:46:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:46:32 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:47:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:47:35 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:320]  ##Start to flush upload info of [0] terminals。
+[DEBUG] 2026-09-20 17:48:26 [pool-10-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:292]  *******Configurations List
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Client.SupportIpv6:客户端是否支持IPV6
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.dialFirstSwitch:网络双栈拨号优先开关
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.authFirstSwitch:IPV4/IPV6业务认证优先开关
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.InternetProtocol:是否开启IPV6
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.UserID:业务账号
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.MACAddress:MAC地址
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Manufacturer:厂商
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Platform:认证平台
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.AuthURL:认证地址
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.PPPoEID:PPPoE拨号账号
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.IPoEID:IPoE拨号账号
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.SleepTriggerTime:休眠触发时间
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.IpoeFirstSwitch:Ipoe优先开关
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.STBID:STB编号
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.AddressingType:地址获取方式
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.IPAddress:IP地址
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelID:型号编号
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelName:型号
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.HardwareVersion:硬件版本
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.SoftwareVersion:软件版本
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Style:终端样式
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.ManagementServer.URL:网管地址
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.OpenState:启动行为
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Probe.StuckSecond:探针卡顿检测时长
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Time.NTPServer1:NTP服务器
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.DNSServers:DNS服务器
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:300]  *******Got 26 configurations.
+[INFO] 2026-09-20 17:48:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:362]  ##Flush upload info finish
+[INFO] 2026-09-20 17:48:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [0] clients.
+[INFO] 2026-09-20 17:48:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 17:48:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 17:48:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 17:48:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 17:48:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:127]  write onlineRecords to db begin
+[INFO] 2026-09-20 17:48:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:136]  Success to write 0 onlineRecords to db
+[INFO] 2026-09-20 17:48:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:37]  OnlineDeviceTask.flushDeviceIntoIgnite begin
+[INFO] 2026-09-20 17:48:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:41]  OnlineDeviceTask.flushDeviceIntoIgnite empty
+[INFO] 2026-09-20 17:48:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:48:38 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:48:56 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+[INFO] 2026-09-20 17:49:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:49:41 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:50:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [0] clients.
+[INFO] 2026-09-20 17:50:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 17:50:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 17:50:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 17:50:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 17:50:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:50:44 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[DEBUG] 2026-09-20 17:51:02 [http-bio-7070-exec-11] [acsLogger.readAddress:81]  Tr069 call from ip：10.194.114.145
+[INFO] 2026-09-20 17:51:02 [http-bio-7070-exec-11] [acsLogger.readBody:104]  Tr069 call from terminal：001004990104900085012C187534ADBB
+[DEBUG] 2026-09-20 17:51:02 [http-bio-7070-exec-11] [acsLogger.inform:81]  终端设备:001004990104900085012C187534ADBB上报数据解析成功。
+[DEBUG] 2026-09-20 17:51:02 [http-bio-7070-exec-11] [acsLogger.process:42]  盒子001004990104900085012C187534ADBB日常开机
+[DEBUG] 2026-09-20 17:51:02 [http-bio-7070-exec-11] [acsLogger.process:100]  成功通知001004990104900085012C187534ADBB开启UDP
+[INFO] 2026-09-20 17:51:02 [http-bio-7070-exec-11] [acsLogger.process:114]  123
+[DEBUG] 2026-09-20 17:51:02 [http-bio-7070-exec-11] [com.amt.acs.controller.handler.RespHeaderValidate.invoke:44]  Write-header response soap.
+[DEBUG] 2026-09-20 17:51:02 [http-bio-7070-exec-13] [com.amt.acs.bean.trans.ToCpeData.parseResponse:34]  Parse report Node[cwmp:SetParameterValuesResponse] for command[SETPARAMETERVALUES]
+[DEBUG] 2026-09-20 17:51:02 [pool-20-thread-41] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:51771]
+[DEBUG] 2026-09-20 17:51:03 [pool-20-thread-42] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:51771]
+[DEBUG] 2026-09-20 17:51:03 [pool-20-thread-43] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:51771]
+[DEBUG] 2026-09-20 17:51:03 [http-bio-7070-exec-15] [acsLogger.readAddress:81]  Tr069 call from ip：10.194.114.145
+[INFO] 2026-09-20 17:51:03 [http-bio-7070-exec-15] [acsLogger.readBody:104]  Tr069 call from terminal：001004990104900085012C187534ADBB
+[DEBUG] 2026-09-20 17:51:03 [http-bio-7070-exec-15] [acsLogger.inform:81]  终端设备:001004990104900085012C187534ADBB上报数据解析成功。
+[DEBUG] 2026-09-20 17:51:03 [http-bio-7070-exec-15] [com.amt.acs.controller.handler.RespHeaderValidate.invoke:44]  Write-header response soap.
+[INFO] 2026-09-20 17:51:26 [pool-8-thread-1] [cronLogger.reloadPolicies:270]  ##开始载入参数设置策略
+[DEBUG] 2026-09-20 17:51:26 [pool-8-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:320]  ##Start to flush upload info of [0] terminals。
+[INFO] 2026-09-20 17:51:26 [pool-8-thread-1] [cronLogger.reloadPolicies:279]  ##成功载入[0]参数设置策略
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:292]  *******Configurations List
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Client.SupportIpv6:客户端是否支持IPV6
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.dialFirstSwitch:网络双栈拨号优先开关
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.authFirstSwitch:IPV4/IPV6业务认证优先开关
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.InternetProtocol:是否开启IPV6
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.UserID:业务账号
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.MACAddress:MAC地址
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Manufacturer:厂商
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Platform:认证平台
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.AuthURL:认证地址
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.PPPoEID:PPPoE拨号账号
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.IPoEID:IPoE拨号账号
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.SleepTriggerTime:休眠触发时间
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.IpoeFirstSwitch:Ipoe优先开关
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.STBID:STB编号
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.AddressingType:地址获取方式
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.IPAddress:IP地址
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelID:型号编号
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelName:型号
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.HardwareVersion:硬件版本
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.SoftwareVersion:软件版本
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Style:终端样式
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.ManagementServer.URL:网管地址
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.OpenState:启动行为
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Probe.StuckSecond:探针卡顿检测时长
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Time.NTPServer1:NTP服务器
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.DNSServers:DNS服务器
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:300]  *******Got 26 configurations.
+[INFO] 2026-09-20 17:51:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:362]  ##Flush upload info finish
+[INFO] 2026-09-20 17:51:26 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+[INFO] 2026-09-20 17:51:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:127]  write onlineRecords to db begin
+[INFO] 2026-09-20 17:51:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:136]  Success to write 0 onlineRecords to db
+[INFO] 2026-09-20 17:51:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:67]  Success to load 0 system policies from database
+[INFO] 2026-09-20 17:51:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:84]  Success to update 0 system policies
+[INFO] 2026-09-20 17:51:26 [pool-14-thread-1] [cronLogger.refreshSystemUpgradeRecordsToDb:116]  Success to write 0 systemUpgradRecords to db
+[DEBUG] 2026-09-20 17:51:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyMatchCache:94]  插入升级策略匹配记录
+[INFO] 2026-09-20 17:51:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:37]  OnlineDeviceTask.flushDeviceIntoIgnite begin
+[INFO] 2026-09-20 17:51:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:64]  OnlineDeviceTask.flushDeviceIntoIgnite end, size=1,flag=false
+[INFO] 2026-09-20 17:51:26 [pool-17-thread-1] [com.amt.acs.task.IptvAccountTask.loadIptvAccount:38]  loadIptvAccount start userIds size=1
+[DEBUG] 2026-09-20 17:51:26 [pool-17-thread-1] [com.amt.framework.persistence.BaseDaoImpl.findByHql:369]  ==zte4kzz006
+[DEBUG] 2026-09-20 17:51:26 [pool-17-thread-1] [com.amt.framework.persistence.BaseDaoImpl.findByHql:371]  SELECT o FROM com.amt.iptv.entity.IptvAccount o where o.userId = ?
+[DEBUG] 2026-09-20 17:51:26 [pool-17-thread-1] [com.amt.framework.persistence.BaseDaoImpl.findByHql:372]  [Ljava.lang.Object;@568a0d36
+[INFO] 2026-09-20 17:51:26 [pool-17-thread-1] [com.amt.acs.task.IptvAccountTask.loadIptvAccount:68]  loadIptvAccount end 
+[INFO] 2026-09-20 17:51:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:150]  ##Start to genOnlineRecords
+[INFO] 2026-09-20 17:51:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:222]  ##Batch flush [1] dirty devices to database success in 160 ms
+[INFO] 2026-09-20 17:51:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:232]  ##Success to flush [0] device online records in 0ms
+[INFO] 2026-09-20 17:51:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:253]  ##Success to flush lastinfo in 0ms
+九月 20, 2026 5:51:47 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[DEBUG] 2026-09-20 17:52:02 [pool-20-thread-44] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:51771]
+[INFO] 2026-09-20 17:52:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [1] clients.
+[INFO] 2026-09-20 17:52:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 17:52:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 17:52:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 17:52:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 17:52:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:52:50 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[DEBUG] 2026-09-20 17:53:02 [pool-20-thread-45] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:51771]
+[INFO] 2026-09-20 17:53:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:53:53 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[DEBUG] 2026-09-20 17:53:56 [pool-14-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[DEBUG] 2026-09-20 17:53:56 [pool-14-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[INFO] 2026-09-20 17:53:56 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+[DEBUG] 2026-09-20 17:54:02 [pool-20-thread-46] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:51771]
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:320]  ##Start to flush upload info of [1] terminals。
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:292]  *******Configurations List
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Client.SupportIpv6:客户端是否支持IPV6
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.dialFirstSwitch:网络双栈拨号优先开关
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.authFirstSwitch:IPV4/IPV6业务认证优先开关
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.InternetProtocol:是否开启IPV6
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.UserID:业务账号
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.MACAddress:MAC地址
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Manufacturer:厂商
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Platform:认证平台
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.AuthURL:认证地址
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.PPPoEID:PPPoE拨号账号
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.IPoEID:IPoE拨号账号
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.SleepTriggerTime:休眠触发时间
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.IpoeFirstSwitch:Ipoe优先开关
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.STBID:STB编号
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.AddressingType:地址获取方式
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.IPAddress:IP地址
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelID:型号编号
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelName:型号
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.HardwareVersion:硬件版本
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.SoftwareVersion:软件版本
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Style:终端样式
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.ManagementServer.URL:网管地址
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.OpenState:启动行为
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Probe.StuckSecond:探针卡顿检测时长
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Time.NTPServer1:NTP服务器
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.DNSServers:DNS服务器
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:300]  *******Got 26 configurations.
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:343]  应该开启线程索引：4
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.saveOrUpdateDeviceUploadInfos:85]  Update　upload data with sql：INSERT INTO deviceUploadInfo4 (serialNumber, isDelete, createDate, version) VALUES (?, ?, ? , 1) ON DUPLICATE KEY UPDATE KEY_23=?, KEY_103=?, KEY_67=?, KEY_20=?, KEY_18=?, KEY_109=?, KEY_27=?, KEY_66=?, KEY_14=?, KEY_32=?, KEY_22=?, KEY_52=?, KEY_19=?, KEY_21=?, KEY_28=?, KEY_105=?, KEY_56=?, KEY_53=?, KEY_35=?, KEY_57=?, KEY_107=?, KEY_7=?, KEY_44=?, KEY_13=?, KEY_65=?, KEY_26=?, updateDate = ?
+[INFO] 2026-09-20 17:54:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [1] clients.
+[INFO] 2026-09-20 17:54:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 17:54:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 17:54:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 17:54:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+九月 20, 2026 5:54:26 下午 org.hibernate.util.JDBCExceptionReporter logExceptions
+警告: SQL Error: 1054, SQLState: 42S22
+九月 20, 2026 5:54:26 下午 org.hibernate.util.JDBCExceptionReporter logExceptions
+严重: Unknown column 'KEY_103' in 'field list'
+[INFO] 2026-09-20 17:54:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:127]  write onlineRecords to db begin
+[INFO] 2026-09-20 17:54:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:136]  Success to write 0 onlineRecords to db
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.run:590]  Erro: save or upate terminal params by thread 4 erro !org.hibernate.exception.SQLGrammarException: could not execute native bulk manipulation query
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.run:593]  Success：save or update 1 terminal params by thread 4 finished in 53 ms ! 
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:356]  Success thread index: 4
+[INFO] 2026-09-20 17:54:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:362]  ##Flush upload info finish
+[INFO] 2026-09-20 17:54:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:37]  OnlineDeviceTask.flushDeviceIntoIgnite begin
+[INFO] 2026-09-20 17:54:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:41]  OnlineDeviceTask.flushDeviceIntoIgnite empty
+[INFO] 2026-09-20 17:54:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:54:56 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[DEBUG] 2026-09-20 17:55:02 [pool-20-thread-47] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:51771]
+[INFO] 2026-09-20 17:55:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 5:55:59 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[DEBUG] 2026-09-20 17:56:08 [http-bio-7070-exec-18] [acsLogger.readAddress:81]  Tr069 call from ip：10.194.114.145
+[INFO] 2026-09-20 17:56:08 [http-bio-7070-exec-18] [acsLogger.readBody:104]  Tr069 call from terminal：001004990104900085012C187534ADBB
+[DEBUG] 2026-09-20 17:56:08 [http-bio-7070-exec-18] [acsLogger.inform:81]  终端设备:001004990104900085012C187534ADBB上报数据解析成功。
+[DEBUG] 2026-09-20 17:56:08 [http-bio-7070-exec-18] [acsLogger.process:42]  盒子001004990104900085012C187534ADBB日常开机
+[DEBUG] 2026-09-20 17:56:08 [http-bio-7070-exec-18] [acsLogger.process:100]  成功通知001004990104900085012C187534ADBB开启UDP
+[INFO] 2026-09-20 17:56:08 [http-bio-7070-exec-18] [acsLogger.process:114]  123
+[DEBUG] 2026-09-20 17:56:08 [http-bio-7070-exec-18] [com.amt.acs.controller.handler.RespHeaderValidate.invoke:44]  Write-header response soap.
+[DEBUG] 2026-09-20 17:56:08 [http-bio-7070-exec-18] [com.amt.acs.bean.trans.ToCpeData.parseResponse:34]  Parse report Node[cwmp:SetParameterValuesResponse] for command[SETPARAMETERVALUES]
+[DEBUG] 2026-09-20 17:56:08 [pool-20-thread-48] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:42696]
+[DEBUG] 2026-09-20 17:56:08 [pool-20-thread-49] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:42696]
+[DEBUG] 2026-09-20 17:56:09 [pool-20-thread-50] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:42696]
+[DEBUG] 2026-09-20 17:56:09 [http-bio-7070-exec-22] [acsLogger.readAddress:81]  Tr069 call from ip：10.194.114.145
+[INFO] 2026-09-20 17:56:09 [http-bio-7070-exec-22] [acsLogger.readBody:104]  Tr069 call from terminal：001004990104900085012C187534ADBB
+[DEBUG] 2026-09-20 17:56:09 [http-bio-7070-exec-22] [acsLogger.inform:81]  终端设备:001004990104900085012C187534ADBB上报数据解析成功。
+[DEBUG] 2026-09-20 17:56:09 [http-bio-7070-exec-22] [com.amt.acs.controller.handler.RespHeaderValidate.invoke:44]  Write-header response soap.
+[INFO] 2026-09-20 17:56:26 [pool-8-thread-1] [cronLogger.checkPolicyRecorods:552]  ####Finish writing [0] paramCheckRecords to database in 0 milseconds.
+[INFO] 2026-09-20 17:56:26 [pool-9-thread-1] [cronLogger.writeCommandsToDataBase:388]  ####Finish writing [0] commands to database in 0 milseconds.
+[INFO] 2026-09-20 17:56:26 [pool-8-thread-1] [cronLogger.checkPolicyRecorods:557]  ##Finish check
+[INFO] 2026-09-20 17:56:26 [pool-8-thread-1] [cronLogger.reloadPolicies:270]  ##开始载入参数设置策略
+[DEBUG] 2026-09-20 17:56:26 [pool-8-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[DEBUG] 2026-09-20 17:56:26 [pool-8-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[INFO] 2026-09-20 17:56:26 [pool-8-thread-1] [cronLogger.reloadPolicies:279]  ##成功载入[0]参数设置策略
+[INFO] 2026-09-20 17:56:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [1] clients.
+[INFO] 2026-09-20 17:56:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 17:56:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 17:56:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 17:56:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 17:56:26 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+[INFO] 2026-09-20 17:56:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:67]  Success to load 0 system policies from database
+[INFO] 2026-09-20 17:56:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:84]  Success to update 0 system policies
+[INFO] 2026-09-20 17:56:26 [pool-14-thread-1] [cronLogger.refreshSystemUpgradeRecordsToDb:116]  Success to write 0 systemUpgradRecords to db
+[DEBUG] 2026-09-20 17:56:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyMatchCache:94]  插入升级策略匹配记录
+[INFO] 2026-09-20 17:56:26 [pool-17-thread-1] [com.amt.acs.task.IptvAccountTask.loadIptvAccount:34]  loadIptvAccount userIds is empty
+[INFO] 2026-09-20 17:56:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:150]  ##Start to genOnlineRecords
+[INFO] 2026-09-20 17:56:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:222]  ##Batch flush [1] dirty devices to database success in 29 ms
+[INFO] 2026-09-20 17:56:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:232]  ##Success to flush [0] device online records in 0ms
+[INFO] 2026-09-20 17:56:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:253]  ##Success to flush lastinfo in 0ms
+九月 20, 2026 5:57:02 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[DEBUG] 2026-09-20 17:57:08 [pool-20-thread-51] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:42696]
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:320]  ##Start to flush upload info of [1] terminals。
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:292]  *******Configurations List
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Client.SupportIpv6:客户端是否支持IPV6
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.dialFirstSwitch:网络双栈拨号优先开关
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.authFirstSwitch:IPV4/IPV6业务认证优先开关
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.InternetProtocol:是否开启IPV6
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.UserID:业务账号
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.MACAddress:MAC地址
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Manufacturer:厂商
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Platform:认证平台
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.AuthURL:认证地址
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.PPPoEID:PPPoE拨号账号
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.IPoEID:IPoE拨号账号
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.SleepTriggerTime:休眠触发时间
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.IpoeFirstSwitch:Ipoe优先开关
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.STBID:STB编号
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.AddressingType:地址获取方式
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.IPAddress:IP地址
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelID:型号编号
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelName:型号
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.HardwareVersion:硬件版本
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.SoftwareVersion:软件版本
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Style:终端样式
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.ManagementServer.URL:网管地址
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.OpenState:启动行为
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Probe.StuckSecond:探针卡顿检测时长
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Time.NTPServer1:NTP服务器
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.DNSServers:DNS服务器
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:300]  *******Got 26 configurations.
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:343]  应该开启线程索引：4
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.saveOrUpdateDeviceUploadInfos:85]  Update　upload data with sql：INSERT INTO deviceUploadInfo4 (serialNumber, isDelete, createDate, version) VALUES (?, ?, ? , 1) ON DUPLICATE KEY UPDATE KEY_23=?, KEY_103=?, KEY_67=?, KEY_20=?, KEY_18=?, KEY_109=?, KEY_27=?, KEY_66=?, KEY_14=?, KEY_32=?, KEY_22=?, KEY_52=?, KEY_19=?, KEY_21=?, KEY_28=?, KEY_105=?, KEY_56=?, KEY_53=?, KEY_35=?, KEY_57=?, KEY_107=?, KEY_7=?, KEY_44=?, KEY_13=?, KEY_65=?, KEY_26=?, updateDate = ?
+九月 20, 2026 5:57:26 下午 org.hibernate.util.JDBCExceptionReporter logExceptions
+警告: SQL Error: 1054, SQLState: 42S22
+九月 20, 2026 5:57:26 下午 org.hibernate.util.JDBCExceptionReporter logExceptions
+严重: Unknown column 'KEY_103' in 'field list'
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.run:590]  Erro: save or upate terminal params by thread 4 erro !org.hibernate.exception.SQLGrammarException: could not execute native bulk manipulation query
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.run:593]  Success：save or update 1 terminal params by thread 4 finished in 20 ms ! 
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:356]  Success thread index: 4
+[INFO] 2026-09-20 17:57:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:362]  ##Flush upload info finish
+[INFO] 2026-09-20 17:57:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:127]  write onlineRecords to db begin
+[INFO] 2026-09-20 17:57:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:37]  OnlineDeviceTask.flushDeviceIntoIgnite begin
+[INFO] 2026-09-20 17:57:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:64]  OnlineDeviceTask.flushDeviceIntoIgnite end, size=1,flag=false
+九月 20, 2026 5:57:26 下午 com.mongodb.diagnostics.logging.SLF4JLogger info
+信息: Opened connection [connectionId{localValue:2, serverValue:1726}] to 172.17.8.108:27017
+[INFO] 2026-09-20 17:57:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+[ERROR] 2026-09-20 17:57:26 [pool-15-thread-1] [cronLogger.saveDeviceOnlineRecordPerDay:170]  saveDeviceOnlineRecordPerDay errororg.springframework.data.mongodb.UncategorizedMongoDbException: Query failed with error code 13 and error message 'not authorized on tj to execute command { find: "DeviceOnlineDay20260920", filter: { serialNumber: "001004990104900085012C187534ADBB" }, limit: 1, singleBatch: true }' on server 172.17.8.108:27017; nested exception is com.mongodb.MongoQueryException: Query failed with error code 13 and error message 'not authorized on tj to execute command { find: "DeviceOnlineDay20260920", filter: { serialNumber: "001004990104900085012C187534ADBB" }, limit: 1, singleBatch: true }' on server 172.17.8.108:27017
+[INFO] 2026-09-20 17:57:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:136]  Success to write 1 onlineRecords to db
+九月 20, 2026 5:58:05 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[DEBUG] 2026-09-20 17:58:08 [pool-20-thread-52] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:42696]
+[INFO] 2026-09-20 17:58:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [1] clients.
+[INFO] 2026-09-20 17:58:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 17:58:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 17:58:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 17:58:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 17:58:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+[DEBUG] 2026-09-20 17:58:56 [pool-14-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[DEBUG] 2026-09-20 17:58:56 [pool-14-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[INFO] 2026-09-20 17:58:56 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+[DEBUG] 2026-09-20 17:59:08 [pool-20-thread-53] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:42696]
+九月 20, 2026 5:59:08 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 17:59:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+[DEBUG] 2026-09-20 18:00:08 [pool-20-thread-54] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:42696]
+九月 20, 2026 6:00:11 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:320]  ##Start to flush upload info of [0] terminals。
+[DEBUG] 2026-09-20 18:00:26 [pool-10-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[INFO] 2026-09-20 18:00:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [1] clients.
+[INFO] 2026-09-20 18:00:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 18:00:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 18:00:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 18:00:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 18:00:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:127]  write onlineRecords to db begin
+[INFO] 2026-09-20 18:00:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:136]  Success to write 0 onlineRecords to db
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:292]  *******Configurations List
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Client.SupportIpv6:客户端是否支持IPV6
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.dialFirstSwitch:网络双栈拨号优先开关
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.authFirstSwitch:IPV4/IPV6业务认证优先开关
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.InternetProtocol:是否开启IPV6
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.UserID:业务账号
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.MACAddress:MAC地址
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Manufacturer:厂商
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Platform:认证平台
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.AuthURL:认证地址
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.PPPoEID:PPPoE拨号账号
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.IPoEID:IPoE拨号账号
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.SleepTriggerTime:休眠触发时间
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.IpoeFirstSwitch:Ipoe优先开关
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.STBID:STB编号
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.AddressingType:地址获取方式
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.IPAddress:IP地址
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelID:型号编号
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelName:型号
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.HardwareVersion:硬件版本
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.SoftwareVersion:软件版本
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Style:终端样式
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.ManagementServer.URL:网管地址
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.OpenState:启动行为
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Probe.StuckSecond:探针卡顿检测时长
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Time.NTPServer1:NTP服务器
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.DNSServers:DNS服务器
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:300]  *******Got 26 configurations.
+[INFO] 2026-09-20 18:00:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:362]  ##Flush upload info finish
+[INFO] 2026-09-20 18:00:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:37]  OnlineDeviceTask.flushDeviceIntoIgnite begin
+[INFO] 2026-09-20 18:00:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:41]  OnlineDeviceTask.flushDeviceIntoIgnite empty
+[INFO] 2026-09-20 18:00:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+[DEBUG] 2026-09-20 18:01:08 [pool-20-thread-55] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:42696]
+九月 20, 2026 6:01:14 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 18:01:26 [pool-8-thread-1] [cronLogger.reloadPolicies:270]  ##开始载入参数设置策略
+[INFO] 2026-09-20 18:01:26 [pool-17-thread-1] [com.amt.acs.task.IptvAccountTask.loadIptvAccount:34]  loadIptvAccount userIds is empty
+[INFO] 2026-09-20 18:01:26 [pool-8-thread-1] [cronLogger.reloadPolicies:279]  ##成功载入[0]参数设置策略
+[INFO] 2026-09-20 18:01:26 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+[INFO] 2026-09-20 18:01:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:67]  Success to load 0 system policies from database
+[INFO] 2026-09-20 18:01:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:84]  Success to update 0 system policies
+[INFO] 2026-09-20 18:01:26 [pool-14-thread-1] [cronLogger.refreshSystemUpgradeRecordsToDb:116]  Success to write 0 systemUpgradRecords to db
+[DEBUG] 2026-09-20 18:01:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyMatchCache:94]  插入升级策略匹配记录
+[INFO] 2026-09-20 18:01:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+[DEBUG] 2026-09-20 18:02:08 [pool-20-thread-56] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:42696]
+九月 20, 2026 6:02:18 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 18:02:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [1] clients.
+[INFO] 2026-09-20 18:02:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 18:02:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 18:02:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 18:02:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 18:02:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+[DEBUG] 2026-09-20 18:03:08 [pool-20-thread-57] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:42696]
+九月 20, 2026 6:03:21 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:320]  ##Start to flush upload info of [0] terminals。
+[DEBUG] 2026-09-20 18:03:26 [pool-10-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:292]  *******Configurations List
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Client.SupportIpv6:客户端是否支持IPV6
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.dialFirstSwitch:网络双栈拨号优先开关
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.authFirstSwitch:IPV4/IPV6业务认证优先开关
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.InternetProtocol:是否开启IPV6
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.UserID:业务账号
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.MACAddress:MAC地址
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Manufacturer:厂商
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Platform:认证平台
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.AuthURL:认证地址
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.PPPoEID:PPPoE拨号账号
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.IPoEID:IPoE拨号账号
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.SleepTriggerTime:休眠触发时间
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.IpoeFirstSwitch:Ipoe优先开关
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.STBID:STB编号
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.AddressingType:地址获取方式
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.IPAddress:IP地址
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelID:型号编号
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelName:型号
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.HardwareVersion:硬件版本
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.SoftwareVersion:软件版本
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Style:终端样式
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.ManagementServer.URL:网管地址
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.OpenState:启动行为
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Probe.StuckSecond:探针卡顿检测时长
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Time.NTPServer1:NTP服务器
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.DNSServers:DNS服务器
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:300]  *******Got 26 configurations.
+[INFO] 2026-09-20 18:03:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:362]  ##Flush upload info finish
+[INFO] 2026-09-20 18:03:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:127]  write onlineRecords to db begin
+[INFO] 2026-09-20 18:03:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:136]  Success to write 0 onlineRecords to db
+[INFO] 2026-09-20 18:03:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:37]  OnlineDeviceTask.flushDeviceIntoIgnite begin
+[INFO] 2026-09-20 18:03:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:41]  OnlineDeviceTask.flushDeviceIntoIgnite empty
+[INFO] 2026-09-20 18:03:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+[INFO] 2026-09-20 18:03:56 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+[DEBUG] 2026-09-20 18:04:08 [pool-20-thread-58] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:42696]
+九月 20, 2026 6:04:24 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 18:04:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [1] clients.
+[INFO] 2026-09-20 18:04:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 18:04:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 18:04:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 18:04:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 18:04:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+[DEBUG] 2026-09-20 18:05:08 [pool-20-thread-59] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:42696]
+[INFO] 2026-09-20 18:05:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 6:05:27 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[DEBUG] 2026-09-20 18:06:08 [pool-20-thread-60] [acsLogger.run:100]  收到终端stb:001004990104900085012C187534ADBB的UDP连接[ip10.194.114.145:42696]
+[INFO] 2026-09-20 18:06:26 [pool-9-thread-1] [cronLogger.writeCommandsToDataBase:388]  ####Finish writing [0] commands to database in 1 milseconds.
+[INFO] 2026-09-20 18:06:26 [pool-8-thread-1] [cronLogger.checkPolicyRecorods:552]  ####Finish writing [0] paramCheckRecords to database in 0 milseconds.
+[INFO] 2026-09-20 18:06:26 [pool-8-thread-1] [cronLogger.checkPolicyRecorods:557]  ##Finish check
+[INFO] 2026-09-20 18:06:26 [pool-8-thread-1] [cronLogger.reloadPolicies:270]  ##开始载入参数设置策略
+[DEBUG] 2026-09-20 18:06:26 [pool-8-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:320]  ##Start to flush upload info of [0] terminals。
+[INFO] 2026-09-20 18:06:26 [pool-8-thread-1] [cronLogger.reloadPolicies:279]  ##成功载入[0]参数设置策略
+[INFO] 2026-09-20 18:06:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [1] clients.
+[INFO] 2026-09-20 18:06:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 18:06:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 18:06:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [1] outofdate devices to Center success in 2 ms
+[INFO] 2026-09-20 18:06:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:292]  *******Configurations List
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Client.SupportIpv6:客户端是否支持IPV6
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.dialFirstSwitch:网络双栈拨号优先开关
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.authFirstSwitch:IPV4/IPV6业务认证优先开关
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.InternetProtocol:是否开启IPV6
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.UserID:业务账号
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.MACAddress:MAC地址
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Manufacturer:厂商
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Platform:认证平台
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.AuthURL:认证地址
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.PPPoEID:PPPoE拨号账号
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.IPoEID:IPoE拨号账号
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.SleepTriggerTime:休眠触发时间
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.IpoeFirstSwitch:Ipoe优先开关
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.STBID:STB编号
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.AddressingType:地址获取方式
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.IPAddress:IP地址
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelID:型号编号
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelName:型号
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.HardwareVersion:硬件版本
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.SoftwareVersion:软件版本
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Style:终端样式
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.ManagementServer.URL:网管地址
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.OpenState:启动行为
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Probe.StuckSecond:探针卡顿检测时长
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Time.NTPServer1:NTP服务器
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.DNSServers:DNS服务器
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:300]  *******Got 26 configurations.
+[INFO] 2026-09-20 18:06:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:362]  ##Flush upload info finish
+[INFO] 2026-09-20 18:06:26 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+[INFO] 2026-09-20 18:06:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:127]  write onlineRecords to db begin
+[INFO] 2026-09-20 18:06:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:136]  Success to write 0 onlineRecords to db
+[INFO] 2026-09-20 18:06:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:67]  Success to load 0 system policies from database
+[INFO] 2026-09-20 18:06:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:84]  Success to update 0 system policies
+[INFO] 2026-09-20 18:06:26 [pool-14-thread-1] [cronLogger.refreshSystemUpgradeRecordsToDb:116]  Success to write 0 systemUpgradRecords to db
+[DEBUG] 2026-09-20 18:06:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyMatchCache:94]  插入升级策略匹配记录
+[INFO] 2026-09-20 18:06:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:37]  OnlineDeviceTask.flushDeviceIntoIgnite begin
+[INFO] 2026-09-20 18:06:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:41]  OnlineDeviceTask.flushDeviceIntoIgnite empty
+[INFO] 2026-09-20 18:06:26 [pool-17-thread-1] [com.amt.acs.task.IptvAccountTask.loadIptvAccount:34]  loadIptvAccount userIds is empty
+[INFO] 2026-09-20 18:06:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 6:06:30 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 18:07:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 6:07:33 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 18:08:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [1] clients.
+[DEBUG] 2026-09-20 18:08:26 [pool-12-thread-1] [cronLogger.checkCpeClients:433]  ##Client is offline now:zte4kzz006
+[INFO] 2026-09-20 18:08:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [1] clients offline during this check
+[INFO] 2026-09-20 18:08:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 18:08:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 18:08:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 18:08:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 6:08:36 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[DEBUG] 2026-09-20 18:08:56 [pool-14-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[DEBUG] 2026-09-20 18:08:56 [pool-14-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[INFO] 2026-09-20 18:08:56 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:320]  ##Start to flush upload info of [0] terminals。
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:292]  *******Configurations List
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Client.SupportIpv6:客户端是否支持IPV6
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.dialFirstSwitch:网络双栈拨号优先开关
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.authFirstSwitch:IPV4/IPV6业务认证优先开关
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.InternetProtocol:是否开启IPV6
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.UserID:业务账号
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.MACAddress:MAC地址
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Manufacturer:厂商
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Platform:认证平台
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.AuthURL:认证地址
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.PPPoEID:PPPoE拨号账号
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.IPoEID:IPoE拨号账号
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.SleepTriggerTime:休眠触发时间
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.IpoeFirstSwitch:Ipoe优先开关
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.STBID:STB编号
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.AddressingType:地址获取方式
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.IPAddress:IP地址
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelID:型号编号
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelName:型号
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.HardwareVersion:硬件版本
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.SoftwareVersion:软件版本
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Style:终端样式
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.ManagementServer.URL:网管地址
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.OpenState:启动行为
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Probe.StuckSecond:探针卡顿检测时长
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Time.NTPServer1:NTP服务器
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.DNSServers:DNS服务器
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:300]  *******Got 26 configurations.
+[INFO] 2026-09-20 18:09:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:362]  ##Flush upload info finish
+[INFO] 2026-09-20 18:09:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:127]  write onlineRecords to db begin
+[INFO] 2026-09-20 18:09:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:136]  Success to write 0 onlineRecords to db
+[INFO] 2026-09-20 18:09:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:37]  OnlineDeviceTask.flushDeviceIntoIgnite begin
+[INFO] 2026-09-20 18:09:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:41]  OnlineDeviceTask.flushDeviceIntoIgnite empty
+[INFO] 2026-09-20 18:09:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 6:09:39 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 18:10:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [0] clients.
+[INFO] 2026-09-20 18:10:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 18:10:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 18:10:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 18:10:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 18:10:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 6:10:42 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 18:11:26 [pool-8-thread-1] [cronLogger.reloadPolicies:270]  ##开始载入参数设置策略
+[DEBUG] 2026-09-20 18:11:26 [pool-8-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[INFO] 2026-09-20 18:11:26 [pool-8-thread-1] [cronLogger.reloadPolicies:279]  ##成功载入[0]参数设置策略
+[INFO] 2026-09-20 18:11:26 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+[INFO] 2026-09-20 18:11:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:67]  Success to load 0 system policies from database
+[INFO] 2026-09-20 18:11:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:84]  Success to update 0 system policies
+[INFO] 2026-09-20 18:11:26 [pool-14-thread-1] [cronLogger.refreshSystemUpgradeRecordsToDb:116]  Success to write 0 systemUpgradRecords to db
+[DEBUG] 2026-09-20 18:11:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyMatchCache:94]  插入升级策略匹配记录
+[INFO] 2026-09-20 18:11:26 [pool-17-thread-1] [com.amt.acs.task.IptvAccountTask.loadIptvAccount:34]  loadIptvAccount userIds is empty
+[INFO] 2026-09-20 18:11:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 6:11:45 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:320]  ##Start to flush upload info of [0] terminals。
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:292]  *******Configurations List
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Client.SupportIpv6:客户端是否支持IPV6
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.dialFirstSwitch:网络双栈拨号优先开关
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.authFirstSwitch:IPV4/IPV6业务认证优先开关
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.InternetProtocol:是否开启IPV6
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.UserID:业务账号
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.MACAddress:MAC地址
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Manufacturer:厂商
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Platform:认证平台
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.AuthURL:认证地址
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.PPPoEID:PPPoE拨号账号
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.IPoEID:IPoE拨号账号
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.SleepTriggerTime:休眠触发时间
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.IpoeFirstSwitch:Ipoe优先开关
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.STBID:STB编号
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.AddressingType:地址获取方式
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.IPAddress:IP地址
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelID:型号编号
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelName:型号
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.HardwareVersion:硬件版本
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.SoftwareVersion:软件版本
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Style:终端样式
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.ManagementServer.URL:网管地址
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.OpenState:启动行为
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Probe.StuckSecond:探针卡顿检测时长
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Time.NTPServer1:NTP服务器
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.DNSServers:DNS服务器
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:300]  *******Got 26 configurations.
+[INFO] 2026-09-20 18:12:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:362]  ##Flush upload info finish
+[INFO] 2026-09-20 18:12:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [0] clients.
+[INFO] 2026-09-20 18:12:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 18:12:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 18:12:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 18:12:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 18:12:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:127]  write onlineRecords to db begin
+[INFO] 2026-09-20 18:12:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:136]  Success to write 0 onlineRecords to db
+[INFO] 2026-09-20 18:12:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:37]  OnlineDeviceTask.flushDeviceIntoIgnite begin
+[INFO] 2026-09-20 18:12:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:41]  OnlineDeviceTask.flushDeviceIntoIgnite empty
+[INFO] 2026-09-20 18:12:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 6:12:48 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 18:13:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 6:13:51 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[DEBUG] 2026-09-20 18:13:56 [pool-14-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[INFO] 2026-09-20 18:13:56 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+[INFO] 2026-09-20 18:14:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [0] clients.
+[INFO] 2026-09-20 18:14:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 18:14:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 18:14:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 18:14:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 18:14:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 6:14:54 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:320]  ##Start to flush upload info of [0] terminals。
+[DEBUG] 2026-09-20 18:15:26 [pool-10-thread-1] [com.alibaba.druid.pool.DruidDataSource.getConnectionDirect:718]  skip not validate connection.
+[INFO] 2026-09-20 18:15:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:37]  OnlineDeviceTask.flushDeviceIntoIgnite begin
+[INFO] 2026-09-20 18:15:26 [pool-16-thread-1] [com.amt.acs.task.OnlineDeviceTask.flushDeviceInToIgnite:41]  OnlineDeviceTask.flushDeviceIntoIgnite empty
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:292]  *******Configurations List
+[INFO] 2026-09-20 18:15:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:127]  write onlineRecords to db begin
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Client.SupportIpv6:客户端是否支持IPV6
+[INFO] 2026-09-20 18:15:26 [pool-15-thread-1] [cronLogger.refreshOnlineRecordsToDb:136]  Success to write 0 onlineRecords to db
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.dialFirstSwitch:网络双栈拨号优先开关
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.authFirstSwitch:IPV4/IPV6业务认证优先开关
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.InternetProtocol:是否开启IPV6
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.UserID:业务账号
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.MACAddress:MAC地址
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.Manufacturer:厂商
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Platform:认证平台
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.AuthURL:认证地址
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.PPPoEID:PPPoE拨号账号
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.IPoEID:IPoE拨号账号
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.SleepTriggerTime:休眠触发时间
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Config.IpoeFirstSwitch:Ipoe优先开关
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.STBID:STB编号
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.AddressingType:地址获取方式
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.IPAddress:IP地址
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelID:型号编号
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.ModelName:型号
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.HardwareVersion:硬件版本
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.DeviceInfo.SoftwareVersion:软件版本
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.Style:终端样式
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.ManagementServer.URL:网管地址
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.X_CTC_IPTV.ServiceInfo.OpenState:启动行为
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Probe.StuckSecond:探针卡顿检测时长
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.Time.NTPServer1:NTP服务器
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:296]  Device.LAN.DNSServers:DNS服务器
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.reloadConfigurations:300]  *******Got 26 configurations.
+[INFO] 2026-09-20 18:15:26 [pool-10-thread-1] [cronLogger.flushUploadInfo:362]  ##Flush upload info finish
+[INFO] 2026-09-20 18:15:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
+九月 20, 2026 6:15:57 下午 org.apache.kafka.clients.NetworkClient processDisconnection
+警告: Connection to node -1 could not be established. Broker may not be available.
+[INFO] 2026-09-20 18:16:26 [pool-8-thread-1] [cronLogger.checkPolicyRecorods:552]  ####Finish writing [0] paramCheckRecords to database in 0 milseconds.
+[INFO] 2026-09-20 18:16:26 [pool-9-thread-1] [cronLogger.writeCommandsToDataBase:388]  ####Finish writing [0] commands to database in 0 milseconds.
+[INFO] 2026-09-20 18:16:26 [pool-8-thread-1] [cronLogger.checkPolicyRecorods:557]  ##Finish check
+[INFO] 2026-09-20 18:16:26 [pool-8-thread-1] [cronLogger.reloadPolicies:270]  ##开始载入参数设置策略
+[INFO] 2026-09-20 18:16:26 [pool-8-thread-1] [cronLogger.reloadPolicies:279]  ##成功载入[0]参数设置策略
+[INFO] 2026-09-20 18:16:26 [pool-12-thread-1] [cronLogger.checkCpeClients:408]  ##Star to check [0] clients.
+[INFO] 2026-09-20 18:16:26 [pool-12-thread-1] [cronLogger.checkCpeClients:457]  ## [0] clients offline during this check
+[INFO] 2026-09-20 18:16:26 [pool-12-thread-1] [cronLogger.checkCpeClients:458]  ## [0] clients come from other server
+[INFO] 2026-09-20 18:16:26 [pool-12-thread-1] [cronLogger.checkCpeClients:467]  ##Batch flush [0] outofdate devices to Center success in 0 ms
+[INFO] 2026-09-20 18:16:26 [pool-12-thread-1] [cronLogger.checkCpeClients:484]  ##Finish check
+[INFO] 2026-09-20 18:16:26 [pool-14-thread-1] [cronLogger.refreshResourceFileCache:48]  Success to update 0 fileResources
+[INFO] 2026-09-20 18:16:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:67]  Success to load 0 system policies from database
+[INFO] 2026-09-20 18:16:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyCache:84]  Success to update 0 system policies
+[INFO] 2026-09-20 18:16:26 [pool-14-thread-1] [cronLogger.refreshSystemUpgradeRecordsToDb:116]  Success to write 0 systemUpgradRecords to db
+[DEBUG] 2026-09-20 18:16:26 [pool-14-thread-1] [cronLogger.refreshSysPolicyMatchCache:94]  插入升级策略匹配记录
+[INFO] 2026-09-20 18:16:26 [pool-17-thread-1] [com.amt.acs.task.IptvAccountTask.loadIptvAccount:34]  loadIptvAccount userIds is empty
+[INFO] 2026-09-20 18:16:26 [pool-11-thread-1] [cronLogger.flushDirtyDeviceInfo:138]  ##No dirty devices to process.
